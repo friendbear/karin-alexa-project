@@ -3,7 +3,7 @@ cachelib==0.4.1
 cffi==1.15.0
 click==8.0.3
 cryptography==35.0.0
-Flask==0.12.1
+Flask==1.0
 Flask-Ask==0.9.8
 Flask-Session==0.4.0
 importlib-metadata==4.8.2
