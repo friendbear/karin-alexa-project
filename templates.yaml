@@ -1,0 +1,9 @@
+welcome_text: Welcome to the Hello Karin Alexa Skill. You can say your name, or, how are you\
+
+hello: Hello {{ firstname }}. Greet job on running youre first Alexa skill.
+
+
+ask_name: What is youre name
+
+ask_name_repromp: Can you tell me your name
+
