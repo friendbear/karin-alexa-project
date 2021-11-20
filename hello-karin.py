@@ -1,9 +1,13 @@
+import logging
+import os
+
 from flask import Flask, render_template
-from flask_ask import Ask, statement, question
+from flask_ask import Ask, request, session, question, statement
 
 app = Flask(__name__)
 
 ask = Ask(app, '/')
+logging.getLogger('flask_ask').setLevel(logging.DEBUG)
 
 @ask.launch
 def launch():
