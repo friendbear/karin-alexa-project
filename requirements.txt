@@ -2,7 +2,7 @@ aniso8601==1.2.0
 cachelib==0.4.1
 cffi==1.15.0
 click==8.0.3
-cryptography==35.0.0
+cryptography==41.0.6
 Flask==2.3.2
 Flask-Ask==0.9.8
 Flask-Session==0.4.0
